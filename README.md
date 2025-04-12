@@ -4,6 +4,7 @@ Jalankan perintah berikut:
 ```bash
 ps -au
 ```
+![image](https://github.com/user-attachments/assets/08d4f3bb-5387-4b53-a210-e11144e198e3)
 
 **a. Nama proses bukan root:**
 Contoh output:
