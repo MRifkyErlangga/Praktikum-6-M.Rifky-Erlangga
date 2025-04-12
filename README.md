@@ -61,6 +61,7 @@ done
 chmod +x prog.sh
 ./prog.sh &
 ```
+![image](https://github.com/user-attachments/assets/866d9e29-71f7-408f-b57f-abd7e8a9f71c)
 
 **Coba hentikan dengan berbagai sinyal:**
 ```bash
@@ -74,6 +75,7 @@ kill -15 [PID]
 - Proses berhenti saat dikirim sinyal **15 (SIGTERM)** dan menampilkan `Hello Goodbye`.
 
 ---
+![image](https://github.com/user-attachments/assets/a4a1888e-8ae4-49e8-9ab7-00b1670f1551)
 
 ### 3. Modifikasi Script `myjob.sh`
 
@@ -94,4 +96,5 @@ PID=$!
 sleep 60
 kill -15 $PID
 ```
+![image](https://github.com/user-attachments/assets/8b7aec82-d6fb-4e59-9db2-f7987150e375)
 
